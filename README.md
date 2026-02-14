@@ -1,4 +1,4 @@
 # apnacollege.demo
 
-This is my first git Repository kfgfdfkjfkfs
+This is my first git Repository
 
